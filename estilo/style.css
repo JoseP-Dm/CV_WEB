@@ -44,7 +44,7 @@ body{
     display: block;
     color:#D7FBFF;
     background-color: #444444;
-    height: 150px;
+    height: 195px;
     width: 300px;
 }
 #Cabecera_sobre_mi{
@@ -53,14 +53,23 @@ body{
     font-size: 150%;
 
 }
-#Edad{
+#Contenido_sobre_mi{
     padding-left: 15px;
     font-size: 120%;
 }
-#Correo{
-    padding-left: 15px;
-    font-size: 120%;
-}
-#Redes_Sociale{
+#Redes_Sociales{
     display: flex;
+}
+#GitHub{
+    padding-left: 15px;
+    display: block;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+}
+#LinkEdin{
+    display: block;
+    height: 40px;
+    width: 40px;
+    margin-left: 40px;
 }
