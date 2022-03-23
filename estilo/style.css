@@ -1,0 +1,66 @@
+body{
+    font-family:'Consolas', 'Courier New', monospace;
+    background-color: #D7FBFF;
+}
+#Presentacion{
+    display: flex;
+}
+#Nombre_Profesion{
+    margin-top: auto;
+    padding-left: 0.50%;
+    display: block;
+    color:#D7FBFF;
+    background-color: #444444;
+    height: 150px;
+    width: 300px;
+}
+#Nombre{
+    font-size: 160%;
+    padding-left: 15px;
+    font-family:'Consolas', 'Courier New', monospace;
+    text-align: left;
+
+}
+#profesion{
+    font-size: 100%;
+    padding-left: 15px;
+    font-family:'Consolas', 'Courier New', monospace;
+    text-align:start;
+}
+#Foto{
+    padding-left: 20px;
+    padding-top: 40px;
+    object-position: 20px 20px;
+    background-color: #444444;
+}
+#Sobre_Mi{
+    display: flex;
+    margin-top: 30px;
+    
+}
+#Info_Sobre_MI{
+    margin-top: auto;
+    padding-left: 0.50%;
+    display: block;
+    color:#D7FBFF;
+    background-color: #444444;
+    height: 150px;
+    width: 300px;
+}
+#Cabecera_sobre_mi{
+    color:#D7FBFF;
+    padding-left: 15px;
+    font-size: 150%;
+
+}
+#Edad{
+    padding-left: 15px;
+    font-size: 120%;
+}
+#Correo{
+    padding-left: 15px;
+    font-size: 120%;
+}
+#Redes_Sociale{
+    display: flex;
+}
